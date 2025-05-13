@@ -20,7 +20,7 @@ global.owner = [
 ]
 
 global.creadorbot = [
-   ['50557865603', 'WillZek', true],
+   ['5491156178758', 'WillZek', true],
 ]
   
 
@@ -48,14 +48,14 @@ ch2: '120363368073378190@newsletter'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '【★】𝐒𝐭𝐚𝐫𝐕𝐨𝐢𝐝-𝐂𝐥𝐮𝐛 ❖'
-global.botname = '(✦◠‿◠)𝑪𝒓𝒐𝒘𝑩𝒐𝒕-𝑺𝑻'
-global.wm = '⏤͟͟͞͞⋆⬪࣪ꥈ🍨★ ׄ ꒱ 𝑪𝒓𝒐𝒘𝑩𝒐𝒕 - 𝑺𝑻 ୭'
+global.packname = '【★】𝐆𝐎𝐊𝐔_𝐁𝐎𝐓-𝐌𝐃 ❖'
+global.botname = '(✦◠‿◠)𝐆𝐎𝐊𝐔_𝐁𝐎𝐓-𝐌𝐃'
+global.wm = '⏤͟͟͞͞⋆⬪࣪ꥈ🍨★ ׄ ꒱ 𝐆𝐎𝐊𝐔_𝐁𝐎𝐓 - 𝐌𝐃 ୭'
 global.author = '(⁎˃ᴗ˂⁎)𝐌𝐚𝐝𝐞 𝐁𝐲 𝐒𝐭𝐚𝐫𝐕𝐨𝐢𝐝-𝐂𝐥𝐮𝐛𓆪'
 global.dev = '© 𝖯᥆𝗐ᥱ𝗋ᥱძ ᑲᥡ 𝖲ᥙᥒ𝖿ᥣᥲ𝗋ᥱ  ☂︎  𝖳ᥱᥲ𝗆'
 global.espera = '✰ 𝐄𝐬𝐩𝐞𝐫𝐚 𝐔𝐧 𝐌𝐨𝐦𝐞𝐧𝐭𝐨, 𝐄𝐬𝐭𝐚𝐦𝐨𝐬 𝐄𝐧𝐯𝐢𝐚𝐧𝐝𝐨 𝐒𝐮 𝐏𝐞𝐝𝐢𝐝𝐨 (✿◠‿◠)'
-global.namebot = 'ᥴr᥆ᥕᑲ᥆𝗍 s𝗍'
-global.textbot = `「 🔱 𝐂𝐫𝐨𝐰𝐁𝐨𝐭 - 𝐒𝐓 🔱 」`
+global.namebot = '𝗚𝗢𝗞𝗨_𝗕𝗢𝗧'
+global.textbot = `𝐆𝐎𝐊𝐔_𝐁𝐎𝐓-𝐌𝐃`
 global.vs = '2.2.0'
 global.publi = '✰𝐒𝐢𝐠𝐮𝐞 𝐄𝐥 𝐂𝐚𝐧𝐚𝐥👇'
 
