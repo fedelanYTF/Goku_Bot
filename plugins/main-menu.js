@@ -37,6 +37,8 @@ const defaultMenu = {
 ✦  🪐 *Tiempo Activo:* %muptime
 ✧  💫 *Usuarios:* %totalreg 
 ╚━━━━━━━━━━━━━━
+`𝗖𝗥𝗘𝗗𝗜𝗧𝗢𝗦:.𝘸𝘪𝘭𝘭𝘻𝘦𝘹`
+
 %readmore
 *✧⋄⋆⋅⋆⋄✧⋄⋆⋅⋆⋄✧⋄⋆⋅⋆⋄✧⋄⋆⋅⋆⋄✧*\n\n> Para Ser Un Sub Bots Usa #code para codigo de 8 dígitos y #qr para codigo qr.
 
