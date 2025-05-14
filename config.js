@@ -10,13 +10,13 @@ import moment from 'moment-timezone'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 // Staff De CrowBot
 global.owner = [
-   ['5491156178758', 'fedelanYT💛', true],
+   ['5491156178758', 'fedelanYT', true],
    ['573015270038', 'fedelanYT Soporte', true],
    ['13124976342', 'fedelanYT', true],
 ]
 
 global.creadorbot = [
-   ['5491156178758', 'fedelanYT, true],
+   ['5491156178758', 'fedelanYT', true],
 ]
   
 
