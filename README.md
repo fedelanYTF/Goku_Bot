@@ -1,12 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Bienvenidos%20-%20Crow%20Bot%20💛&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%"/> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Bienvenidos%20-%20Goku%20Bot%20💛&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%"/> 
 
 ![Bienvenida Épica](https://github.com/WillZek/WillZek/blob/main/Crow.svg)
 
 > **`🪩 Versión Actual: 2.5.0`**  
 
 <a
-href="https://github.com/WillZek/CrowBot-ST/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/WillZek/CrowBot-ST?color=yellow&style=flat-square"></a>
-<a href="https://github.com/WillZek/CrowBot-ST/watchers"><img title="espectadores" src="https://img.shields.io/github/watchers/WillZek/CrowBot-ST?label=Espectadores&style=social"></a>
+href="https://github.com/fedelanYTF/Goku_Bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/fedelanYTF/Goku_Bot?color=yellow&style=flat-square"></a>
+<a href="https://github.com/fedelanYTF/Goku_Bot/watchers"><img title="espectadores" src="https://img.shields.io/github/watchers/fedelanYTF/Goku_Bot?label=Espectadores&style=social"></a>
 
 </p>
 
