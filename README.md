@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Bienvenidos%20-%20Goku%20Bot%20💛&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%"/> 
 
-![Bienvenida Épica](https://github.com/WillZek/WillZek/blob/main/Crow.svg)
+![Bienvenida Épica](https://github.com/fedelanYTF/fedelanYTF/blob/main/Goku_Bot.svg)
 
 > **`🪩 Versión Actual: 2.5.0`**  
 
@@ -233,10 +233,6 @@ href="https://dash.hostingpy.shop/"><img src="https://files.catbox.moe/lr92z2.jp
 </details>
 
 </details>
-
-## 🐦‍🔥 **`COLABORADORES`**
-<a href="https://github.com/The-king-Destroy"><img src="https://github.com/The-king-Destroy.png" width="100" height="100" alt="The-king-Destroy"/></a>
-<a href="https://github.com/Manuel12yt"><img src="https://github.com/Manuel12yt.png" width="100" height="100" alt="Manuel12yt"/></a>
 
 
 ## **`💛 𝘊𝘙𝘌𝘈𝘋𝘖𝘙`**
